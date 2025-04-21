@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bothblanks
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Nodejs
+- 💞️ I’m looking to collaborate on Discord bots, Nodejs or Javascript
+- 📫 How to reach me Discord; blxsxom
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a dude!
