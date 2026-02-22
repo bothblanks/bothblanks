@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @bothblanks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning:
-- 💞️ I’m looking to collaborate:
-- 📫 How to reach me:
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+
